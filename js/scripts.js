@@ -70,7 +70,7 @@ var result;
 
       question = 1;
 
-      value1 = JavaScript;
+      value1 = Java Script;
 
       value2 = Python;
 
@@ -157,7 +157,7 @@ var result;
 
          // value1 is the highest
 
-         result = "JavaScript";
+         result = "Java Script";
 
 
 
@@ -201,8 +201,6 @@ var result;
 
 
 
-
-      window.location = result + '.html';
 
 
 
