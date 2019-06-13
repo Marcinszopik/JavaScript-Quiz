@@ -41,15 +41,14 @@ function toggle3() {
 
 
 
-
+{
 var result;
 
 
 
 
    function check()
-
-
+}
 
 
    {
