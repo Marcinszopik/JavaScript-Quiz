@@ -49,13 +49,6 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 		// code will go here
 	}
 
-	// show the questions
-	showQuestions(questions, quizContainer);
-
-	// when user clicks submit, show results
-	submitButton.onclick = function(){
-		showResults(questions, quizContainer, resultsContainer);
-	}
 }
 
 
@@ -91,7 +84,7 @@ var result;
 
       value2 = Python;
 
-      value3 = C#;
+      value3 = CSharp;
 
 
 
@@ -208,7 +201,7 @@ var result;
 
          // value3 is the highest
 
-         result = "C#";
+         result = "CSharp";
 
 
 
